@@ -15,3 +15,10 @@ An elegant, smooth carousel slider designed to showcase content with style. Buil
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/slider-project.git
+2. Open index.html in your browser.
+
+Enjoy the carousel! 🎠
+
+## 💡 Customization
+Add your images in the image/ folder.
+Adjust timing and autoplay settings in app.js.
